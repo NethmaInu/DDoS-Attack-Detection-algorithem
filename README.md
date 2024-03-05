@@ -17,3 +17,9 @@ DDoS detection using random forest.
 
 ### Precision, Recall, F1
 <img width="167" alt="precision" src="https://github.com/RY9000/DDoS-Random-Forest/assets/92776817/48c8a779-382d-4ad8-980c-f8a8c48eb7e7">
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/inuri-saputhanthri-14b4a01b3/)
+- [Blogs](https://www.blogger.com/blog/posts/187834683908768262?hl=en&tab=jj)
+- [Email](mailto:nethmainur@gmail.com)
